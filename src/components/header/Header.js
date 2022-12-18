@@ -21,7 +21,7 @@ class Header extends Component {
     const link = settings.isSplash ? "/splash" : "home";
     return (
       <Fade top duration={1000} distance="20px">
-        <SeoHeader />
+        {/* <SeoHeader /> */}
         <div>
           <header className="header">
             <NavLink to={link} tag={Link} className="logo">
@@ -60,7 +60,7 @@ class Header extends Component {
                   Education
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink
                   to="/experience"
                   tag={Link}
@@ -71,8 +71,8 @@ class Header extends Component {
                 >
                   Experience
                 </NavLink>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <NavLink
                   to="/projects"
                   tag={Link}
@@ -83,8 +83,8 @@ class Header extends Component {
                 >
                   Projects
                 </NavLink>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <NavLink
                   to="/opensource"
                   tag={Link}
@@ -95,7 +95,7 @@ class Header extends Component {
                 >
                   Open Source
                 </NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink
                   to="/contact"

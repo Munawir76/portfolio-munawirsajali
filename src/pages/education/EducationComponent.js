@@ -29,19 +29,22 @@ class Education extends Component {
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
-                  Education
+                  Pendidikan
                 </h1>
-                <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Basic Qualification and Certifcations
+                <h3 className="" style={{ color: theme.text }}>
+                  Saya seorang lulusan SMK Negeri yang memiliki latar belakang
+                  Teknik Elektro. Dan saya pernah menempuh Pendidikan tinggi
+                  disalah satu Universitas yang ada di Kab. Bekasi namun tidak
+                  sampai selesai.
                 </h3>
-                <CompetitiveSites logos={competitiveSites.competitiveSites} />
+                {/* <CompetitiveSites logos={competitiveSites.competitiveSites} /> */}
               </div>
             </div>
           </Fade>
           <Educations theme={this.props.theme} />
-          {certifications.certifications.length > 0 ? (
+          {/* {certifications.certifications.length > 0 ? (
             <Certifications theme={this.props.theme} />
-          ) : null}
+          ) : null} */}
         </div>
         <Footer theme={this.props.theme} />
         <TopButton theme={this.props.theme} />

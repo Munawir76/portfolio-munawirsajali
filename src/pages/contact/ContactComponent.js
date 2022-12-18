@@ -26,8 +26,9 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
-                  src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
-                  alt=""
+                  src={require(`../../assests/images/profileNawir.png`)}
+                  alt="profile"
+                  width={700}
                 />
               </div>
               <div className="contact-heading-text-div">
@@ -46,7 +47,7 @@ class Contact extends Component {
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
                   <Button
-                    text="See My Resume"
+                    text="Lihat Resume Saya"
                     newTab={true}
                     href={greeting.resumeLink}
                     theme={theme}
@@ -55,7 +56,7 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
-          <Fade bottom duration={1000} distance="40px">
+          {/* <Fade bottom duration={1000} distance="40px">
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
                 <h1 className="blog-heading-text" style={{ color: theme.text }}>
@@ -77,23 +78,13 @@ class Contact extends Component {
                 </div>
               </div>
               <div className="blog-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
+              
                 <BlogsImg theme={theme} />
               </div>
             </div>
-          </Fade>
+          </Fade> */}
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
-              <div className="contact-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <AddressImg theme={theme} />
-              </div>
               <div className="address-heading-text-div">
                 <h1
                   className="address-heading-text"
@@ -121,12 +112,19 @@ class Contact extends Component {
                 </p>
                 <div className="address-btn-div">
                   <Button
-                    text="Visit on Google Maps"
+                    text="Kunjungi dalam google maps"
                     newTab={true}
                     href={addressSection.location_map_link}
                     theme={theme}
                   />
                 </div>
+              </div>
+              <div className="contact-heading-img-div">
+                {/* <img
+											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
+											alt=""
+										/> */}
+                <AddressImg theme={theme} />
               </div>
             </div>
           </Fade>
