@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portofiliomunawirsajali/static/css/main.13bf7b72.chunk.css",
-    "main.js": "/portofiliomunawirsajali/static/js/main.2779c038.chunk.js",
-    "main.js.map": "/portofiliomunawirsajali/static/js/main.2779c038.chunk.js.map",
+    "main.js": "/portofiliomunawirsajali/static/js/main.6b338fe9.chunk.js",
+    "main.js.map": "/portofiliomunawirsajali/static/js/main.6b338fe9.chunk.js.map",
     "runtime-main.js": "/portofiliomunawirsajali/static/js/runtime-main.915d8fc5.js",
     "runtime-main.js.map": "/portofiliomunawirsajali/static/js/runtime-main.915d8fc5.js.map",
-    "static/js/2.ea1cf3b5.chunk.js": "/portofiliomunawirsajali/static/js/2.ea1cf3b5.chunk.js",
-    "static/js/2.ea1cf3b5.chunk.js.map": "/portofiliomunawirsajali/static/js/2.ea1cf3b5.chunk.js.map",
+    "static/js/2.cc3d46a5.chunk.js": "/portofiliomunawirsajali/static/js/2.cc3d46a5.chunk.js",
+    "static/js/2.cc3d46a5.chunk.js.map": "/portofiliomunawirsajali/static/js/2.cc3d46a5.chunk.js.map",
     "index.html": "/portofiliomunawirsajali/index.html",
-    "precache-manifest.c1d39a47b7de5e1ee0fdfd0fb43c81e6.js": "/portofiliomunawirsajali/precache-manifest.c1d39a47b7de5e1ee0fdfd0fb43c81e6.js",
+    "precache-manifest.0ad3f1a68729c456b1b6826c8a91658d.js": "/portofiliomunawirsajali/precache-manifest.0ad3f1a68729c456b1b6826c8a91658d.js",
     "service-worker.js": "/portofiliomunawirsajali/service-worker.js",
     "static/css/main.13bf7b72.chunk.css.map": "/portofiliomunawirsajali/static/css/main.13bf7b72.chunk.css.map",
     "static/media/index.css": "/portofiliomunawirsajali/static/media/Montserrat-Regular.ee653992.ttf",
@@ -23,6 +23,7 @@
     "static/media/deeplearning_ai_logo.png": "/portofiliomunawirsajali/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/portofiliomunawirsajali/static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "/portofiliomunawirsajali/static/media/dsc_logo.63f707f2.png",
+    "static/media/dwi anjay.png": "/portofiliomunawirsajali/static/media/dwi anjay.02c4cd96.png",
     "static/media/education.svg": "/portofiliomunawirsajali/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/portofiliomunawirsajali/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/portofiliomunawirsajali/static/media/fa-solid-900.8e4a6dcc.eot",
@@ -52,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.915d8fc5.js",
-    "static/js/2.ea1cf3b5.chunk.js",
+    "static/js/2.cc3d46a5.chunk.js",
     "static/css/main.13bf7b72.chunk.css",
-    "static/js/main.2779c038.chunk.js"
+    "static/js/main.6b338fe9.chunk.js"
   ]
 }

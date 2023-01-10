@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "298e671a760dea8466083c97198aed0c",
+    "revision": "1b8204b0feeffcb228bc95ca1fc5ff64",
     "url": "/portofiliomunawirsajali/index.html"
   },
   {
-    "revision": "a289c8c29f12ad8a219f",
+    "revision": "02be1f5c72d7f01a857b",
     "url": "/portofiliomunawirsajali/static/css/main.13bf7b72.chunk.css"
   },
   {
-    "revision": "1ed8c1befd0396518894",
-    "url": "/portofiliomunawirsajali/static/js/2.ea1cf3b5.chunk.js"
+    "revision": "fc2a0a7a276f2e2ded00",
+    "url": "/portofiliomunawirsajali/static/js/2.cc3d46a5.chunk.js"
   },
   {
-    "revision": "a289c8c29f12ad8a219f",
-    "url": "/portofiliomunawirsajali/static/js/main.2779c038.chunk.js"
+    "revision": "02be1f5c72d7f01a857b",
+    "url": "/portofiliomunawirsajali/static/js/main.6b338fe9.chunk.js"
   },
   {
     "revision": "2338bc8eb9d3abb731ed",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
     "url": "/portofiliomunawirsajali/static/media/dsc_logo.63f707f2.png"
+  },
+  {
+    "revision": "02c4cd962c549cd99770189a4b2dfe75",
+    "url": "/portofiliomunawirsajali/static/media/dwi anjay.02c4cd96.png"
   },
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",

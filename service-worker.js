@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/portofiliomunawirsajali/precache-manifest.c1d39a47b7de5e1ee0fdfd0fb43c81e6.js"
+  "/portofiliomunawirsajali/precache-manifest.0ad3f1a68729c456b1b6826c8a91658d.js"
 );
 
 self.addEventListener('message', (event) => {
