@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b8204b0feeffcb228bc95ca1fc5ff64",
+    "revision": "52bf9e6318a19b20cd006b916d740e05",
     "url": "/portofiliomunawirsajali/index.html"
   },
   {
-    "revision": "02be1f5c72d7f01a857b",
+    "revision": "a5ad8d72051e604cd7c3",
     "url": "/portofiliomunawirsajali/static/css/main.13bf7b72.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofiliomunawirsajali/static/js/2.cc3d46a5.chunk.js"
   },
   {
-    "revision": "02be1f5c72d7f01a857b",
-    "url": "/portofiliomunawirsajali/static/js/main.6b338fe9.chunk.js"
+    "revision": "a5ad8d72051e604cd7c3",
+    "url": "/portofiliomunawirsajali/static/js/main.5ec9917d.chunk.js"
   },
   {
     "revision": "2338bc8eb9d3abb731ed",

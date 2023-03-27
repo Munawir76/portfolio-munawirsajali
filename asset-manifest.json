@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portofiliomunawirsajali/static/css/main.13bf7b72.chunk.css",
-    "main.js": "/portofiliomunawirsajali/static/js/main.6b338fe9.chunk.js",
-    "main.js.map": "/portofiliomunawirsajali/static/js/main.6b338fe9.chunk.js.map",
+    "main.js": "/portofiliomunawirsajali/static/js/main.5ec9917d.chunk.js",
+    "main.js.map": "/portofiliomunawirsajali/static/js/main.5ec9917d.chunk.js.map",
     "runtime-main.js": "/portofiliomunawirsajali/static/js/runtime-main.915d8fc5.js",
     "runtime-main.js.map": "/portofiliomunawirsajali/static/js/runtime-main.915d8fc5.js.map",
     "static/js/2.cc3d46a5.chunk.js": "/portofiliomunawirsajali/static/js/2.cc3d46a5.chunk.js",
     "static/js/2.cc3d46a5.chunk.js.map": "/portofiliomunawirsajali/static/js/2.cc3d46a5.chunk.js.map",
     "index.html": "/portofiliomunawirsajali/index.html",
-    "precache-manifest.0ad3f1a68729c456b1b6826c8a91658d.js": "/portofiliomunawirsajali/precache-manifest.0ad3f1a68729c456b1b6826c8a91658d.js",
+    "precache-manifest.f99da6553e13c99fd2d5cf2a1348a95b.js": "/portofiliomunawirsajali/precache-manifest.f99da6553e13c99fd2d5cf2a1348a95b.js",
     "service-worker.js": "/portofiliomunawirsajali/service-worker.js",
     "static/css/main.13bf7b72.chunk.css.map": "/portofiliomunawirsajali/static/css/main.13bf7b72.chunk.css.map",
     "static/media/index.css": "/portofiliomunawirsajali/static/media/Montserrat-Regular.ee653992.ttf",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.915d8fc5.js",
     "static/js/2.cc3d46a5.chunk.js",
     "static/css/main.13bf7b72.chunk.css",
-    "static/js/main.6b338fe9.chunk.js"
+    "static/js/main.5ec9917d.chunk.js"
   ]
 }
